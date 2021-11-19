@@ -53,7 +53,7 @@ By the time you submit this project, you will have covered new ground in, and re
 
 #### Technical Requirements
 
-* Use CoreData to store, mainipalte application data
+* Use CoreData to store, manipulate application data
 * Use Collection Views
 * Have at least one Gesture
 * Have at _least_ 1 model \(more if it makes sense\)
